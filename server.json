@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.dataleadspro/news-article-extractor",
+  "name": "io.github.DataLeadsPRO/news-article-extractor",
   "description": "Extract clean article text, titles, and metadata from news URLs - ready for NLP pipelines.",
   "version": "1.0.0",
   "repository": {
